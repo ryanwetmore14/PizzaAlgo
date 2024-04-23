@@ -1,2 +1,4 @@
 Decide which business to order from
 Decice which type of pizza to order
+Drive to pick up pizza
+Go home and eat pizza with friends
