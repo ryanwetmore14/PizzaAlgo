@@ -1,2 +1,5 @@
 Decide where to order pizza from
 Decide which type of pizza to order
+Order cheese pizza
+Eat and enjoy cheese pizza
+Sleep
