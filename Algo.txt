@@ -1,5 +1,2 @@
-Pick up pizza
-Drive home with pizza
-Eat pizza with friends
-Order 2 more pizzas
-Throw a party
+Decide where to order pizza from
+Decide which type of pizza to order
